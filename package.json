@@ -5,7 +5,7 @@
 "license": "GPL",
 "repository": "gubareve/x-squared-npm",
 "main": "index.js",
-"publishConfig": { "registry": "https://npm.pkg.github.com/" }
+"publishConfig": { "registry": "https://npm.pkg.github.com/" },
 "keywords": [
   "x",
   "npm",
