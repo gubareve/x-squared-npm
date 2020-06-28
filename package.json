@@ -1,0 +1,14 @@
+{
+"name": "@gubareve/xquared",
+"version": "1.0.0"
+"description": "Squares the value that is fed into it.",
+"license": "GPL",
+"repository": "gubareve/x-squared-npm",
+"main": "index.js",
+"keywords": [
+  "x",
+  "npm",
+  "x-squared",
+  "xsquared"
+]
+}
