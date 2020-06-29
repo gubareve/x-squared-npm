@@ -1,9 +1,9 @@
 # x-squared-npm
 
-# @bamblehorse/tiny
+# @gubareve/xsquared
 
-[![npm (scoped)](https://img.shields.io/npm/v/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/@bamblehorse/tiny)
-[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/@bamblehorse/tiny)
+[![npm (scoped)](https://img.shields.io/npm/v/@gubareve/xsquared.svg)](https://www.npmjs.com/package/@bamblehorse/tiny)
+[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@gubareve/xsquared.svg)](https://www.npmjs.com/package/@bamblehorse/tiny)
 
 Removes all spaces from a string.
 
